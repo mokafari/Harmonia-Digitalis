@@ -1,4 +1,4 @@
-# AI Agent Apex Doctrine (AAD) - v5.0
+# Harmonia Digitalis - v5.0
 
 **To:** AI Agent
 **From:** System Command
