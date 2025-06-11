@@ -1,6 +1,6 @@
-# AI Agent Apex Doctrine (AAD) Project
+# Harmonia Digitalis - Agent Apex Doctrine 
 
-This repository contains the Agent Apex Doctrine (AAD), version 4.0.
+This repository contains the AI ethos framework, Haromonia Digitals built upon how LLMs work
 
 ## Purpose
 
